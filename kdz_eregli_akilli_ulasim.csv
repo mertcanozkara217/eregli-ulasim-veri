@@ -346,9 +346,6 @@ BÖLÜCEK,Çarşı,Bölücek,Pazar,12:00,Pazar Bölücek,Standart
 BÖLÜCEK,Çarşı,Bölücek,Pazar,16:00,Pazar Bölücek,Standart
 BÖLÜCEK,Çarşı,Bölücek,Pazar,18:00,Pazar Bölücek,Standart
 BÖLÜCEK,Çarşı,Bölücek,Pazar,19:30,Pazar Bölücek,Standart
-DENİZCİLİK FAKÜLTESİ,Denizcilik Fakültesi,Çarşı,Cumartesi,18:55,Cumartesi Denizcilik Fakültesi -> Kepez -> Çarşı,KYK / Üniversite
-DENİZCİLİK FAKÜLTESİ,Denizcilik Fakültesi,Çarşı,Hafta İçi,08:15,Sabah KYK Ring Dönüşü: Denizcilik Fakültesi -> Çarşı,KYK / Üniversite
-DENİZCİLİK FAKÜLTESİ,Denizcilik Fakültesi,Çarşı,Hafta İçi,18:55,Akşam Çıkış: Denizcilik Fakültesi -> Kepez -> Çarşı (İlyas Karaca 18:30 dönüşü),KYK / Üniversite
 DORUK-FAKÜLTE,Eğitim Fakültesi (Doruk),Çarşı,Cumartesi,07:55,Cumartesi Fakülte Dönüş (+20 dk),KYK / Üniversite
 DORUK-FAKÜLTE,Eğitim Fakültesi (Doruk),Çarşı,Cumartesi,08:20,Cumartesi Fakülte Dönüş (+20 dk),KYK / Üniversite
 DORUK-FAKÜLTE,Eğitim Fakültesi (Doruk),Çarşı,Cumartesi,08:50,Cumartesi Fakülte Dönüş (+20 dk),KYK / Üniversite
@@ -1989,6 +1986,9 @@ KESTANECİ,Çarşı,Kestaneci,Pazar,20:30,Pazar Kestaneci,Standart
 KESTANECİ,Çarşı,Kestaneci,Pazar,21:00,Pazar Kestaneci,Standart
 KESTANECİ,Çarşı,Kestaneci,Pazar,21:30,Pazar Kestaneci,Standart
 KESTANECİ,Çarşı,Kestaneci,Pazar,22:05,Pazar Kestaneci,Standart
+KYK,Denizcilik Fakültesi,Çarşı,Cumartesi,18:55,Cumartesi Denizcilik Fakültesi -> Kepez -> Çarşı,KYK / Üniversite
+KYK,Denizcilik Fakültesi,Çarşı,Hafta İçi,08:15,Sabah KYK Ring Dönüşü: Denizcilik Fakültesi -> Çarşı,KYK / Üniversite
+KYK,Denizcilik Fakültesi,Çarşı,Hafta İçi,18:55,Akşam Çıkış: Denizcilik Fakültesi -> Kepez -> Çarşı (İlyas Karaca 18:30 dönüşü),KYK / Üniversite
 KYK,Gülüç KYK,Doruk & Denizcilik Fak.,Hafta İçi,07:55,Gülüç Kız ve Erkek KYK Yurdu -> Doruk Eğitim Fakültesi -> Denizcilik Fakültesi,KYK / Üniversite
 KYK,Gülüç KYK,Doruk & Denizcilik Fak.,Hafta İçi,08:00,Gülüç Kız ve Erkek KYK Yurdu -> Doruk Eğitim Fakültesi -> Denizcilik Fakültesi,KYK / Üniversite
 KYK,Çavdarlı KYK,Doruk & Denizcilik Fak.,Hafta İçi,08:00,Çavdarlı KYK Kız Yurdu -> Doruk Eğitim Fakültesi -> Denizcilik Fakültesi (Sabah Ringi),KYK / Üniversite
