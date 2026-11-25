@@ -1,4 +1,4 @@
-hat,kalkis,varis,gun,saat,detay,etiket
+﻿hat,kalkis,varis,gun,saat,detay,etiket
 ADLİYE,Çarşı,Adliye,Hafta İçi,07:55,Adliye Ringi,Standart
 ADLİYE,Çarşı,Adliye,Hafta İçi,08:30,Adliye Ringi,Standart
 ADLİYE,Çarşı,Adliye,Hafta İçi,09:30,Adliye Ringi,Standart
@@ -143,90 +143,90 @@ AKTAŞ,Çarşı,Aktaş,Pazar,20:30,Pazar Aktaş,Standart
 AKTAŞ,Çarşı,Aktaş,Pazar,21:00,Pazar Aktaş,Standart
 AKTAŞ,Çarşı,Aktaş,Pazar,21:30,Pazar Aktaş,Standart
 AKTAŞ,Çarşı,Aktaş,Pazar,22:05,Pazar Aktaş,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Cumartesi,07:30,Cumartesi Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Cumartesi,07:45,Cumartesi Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,08:00,Cumartesi Üst Kemer / Liman,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Cumartesi,08:30,Cumartesi Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,09:00,Cumartesi Üst Kemer / Liman,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Cumartesi,09:30,Cumartesi Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,10:00,Cumartesi Üst Kemer / Liman,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Cumartesi,10:30,Cumartesi Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,11:00,Cumartesi Üst Kemer / Liman,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Cumartesi,11:30,Cumartesi Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,12:00,Cumartesi Üst Kemer / Liman,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Cumartesi,12:30,Cumartesi Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,13:00,Cumartesi Üst Kemer / Liman,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Cumartesi,13:30,Cumartesi Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,14:00,Cumartesi Üst Kemer / Liman,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Cumartesi,14:30,Cumartesi Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,15:00,Cumartesi Üst Kemer / Liman,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Cumartesi,15:30,Cumartesi Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,16:00,Cumartesi Üst Kemer / Liman,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Cumartesi,16:30,Cumartesi Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,17:00,Cumartesi Üst Kemer / Liman,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Cumartesi,17:30,Cumartesi Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,18:00,Cumartesi Üst Kemer / Liman,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Cumartesi,18:30,Cumartesi Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,19:00,Cumartesi Üst Kemer / Liman,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Cumartesi,19:30,Cumartesi Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,20:00,Cumartesi Üst Kemer / Liman,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Cumartesi,20:30,Cumartesi Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Cumartesi,22:05,Cumartesi Orta Kemer / Balı,Standart
-BALI-KEMER,Balı / Kemer,Çarşı,Hafta İçi,07:00,Sabah İlk Geliş (Askeriye / Fen Lisesi Önü),Standart
-BALI-KEMER,Balı / Kemer,Çarşı,Hafta İçi,07:25,Sabah İlk Geliş (Askeriye / Fen Lisesi Önü),Standart
-BALI-KEMER,Balı / Kemer,Çarşı,Hafta İçi,07:30,Sabah İlk Geliş (Askeriye / Fen Lisesi Önü),Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Hafta İçi,07:30,Orta Kemer / Balı Güzergahı,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Hafta İçi,07:50,Orta Kemer / Balı Güzergahı,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Hafta İçi,08:00,Orta Kemer / Balı Güzergahı,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Hafta İçi,08:15,Orta Kemer Engelliler Okulu Dönüşü,Lise / Okul
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Hafta İçi,08:30,Orta Kemer / Balı Güzergahı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,09:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Hafta İçi,09:30,Orta Kemer / Balı Güzergahı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,10:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Hafta İçi,10:30,Orta Kemer / Balı Güzergahı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,11:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Hafta İçi,11:30,Orta Kemer / Balı Güzergahı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,12:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Hafta İçi,12:30,Orta Kemer / Balı Güzergahı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,13:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Hafta İçi,13:30,Orta Kemer / Balı Güzergahı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,14:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Hafta İçi,14:30,Orta Kemer / Balı Güzergahı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,15:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Hafta İçi,15:30,Orta Kemer -> 15:40 Fen Lisesi Çıkışı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,16:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Hafta İçi,16:30,Orta Kemer / Balı Güzergahı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,17:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Hafta İçi,17:30,Orta Kemer / Balı Güzergahı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,18:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Hafta İçi,18:30,Orta Kemer / Balı Güzergahı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,19:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Hafta İçi,19:30,Orta Kemer / Balı Güzergahı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,20:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Hafta İçi,20:30,Orta Kemer / Balı Güzergahı,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Hafta İçi,22:05,Orta Kemer / Balı Güzergahı,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Pazar,07:30,Pazar Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Pazar,08:30,Pazar Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Pazar,09:30,Pazar Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Pazar,10:30,Pazar Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Pazar,11:00,Pazar Üst Kemer / Liman,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Pazar,11:30,Pazar Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Pazar,12:30,Pazar Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Pazar,13:00,Pazar Üst Kemer / Liman,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Pazar,13:30,Pazar Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Pazar,14:30,Pazar Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Pazar,15:00,Pazar Üst Kemer / Liman,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Pazar,15:30,Pazar Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Pazar,16:30,Pazar Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Pazar,17:00,Pazar Üst Kemer / Liman,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Pazar,17:30,Pazar Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Pazar,18:00,Pazar Üst Kemer / Liman,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Pazar,18:30,Pazar Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Pazar,19:00,Pazar Üst Kemer / Liman,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Pazar,19:30,Pazar Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Üst Kemer / Liman,Pazar,20:00,Pazar Üst Kemer / Liman,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Pazar,20:30,Pazar Orta Kemer / Balı,Standart
-BALI-KEMER,Çarşı,Orta Kemer / Balı,Pazar,22:05,Pazar Orta Kemer / Balı,Standart
+BALI,Çarşı,Balı / Orta Kemer,Cumartesi,07:30,Cumartesi Orta Kemer / Balı,Standart
+BALI,Çarşı,Balı / Orta Kemer,Cumartesi,07:45,Cumartesi Orta Kemer / Balı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,08:00,Cumartesi Üst Kemer / Liman,Standart
+BALI,Çarşı,Balı / Orta Kemer,Cumartesi,08:30,Cumartesi Orta Kemer / Balı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,09:00,Cumartesi Üst Kemer / Liman,Standart
+BALI,Çarşı,Balı / Orta Kemer,Cumartesi,09:30,Cumartesi Orta Kemer / Balı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,10:00,Cumartesi Üst Kemer / Liman,Standart
+BALI,Çarşı,Balı / Orta Kemer,Cumartesi,10:30,Cumartesi Orta Kemer / Balı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,11:00,Cumartesi Üst Kemer / Liman,Standart
+BALI,Çarşı,Balı / Orta Kemer,Cumartesi,11:30,Cumartesi Orta Kemer / Balı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,12:00,Cumartesi Üst Kemer / Liman,Standart
+BALI,Çarşı,Balı / Orta Kemer,Cumartesi,12:30,Cumartesi Orta Kemer / Balı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,13:00,Cumartesi Üst Kemer / Liman,Standart
+BALI,Çarşı,Balı / Orta Kemer,Cumartesi,13:30,Cumartesi Orta Kemer / Balı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,14:00,Cumartesi Üst Kemer / Liman,Standart
+BALI,Çarşı,Balı / Orta Kemer,Cumartesi,14:30,Cumartesi Orta Kemer / Balı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,15:00,Cumartesi Üst Kemer / Liman,Standart
+BALI,Çarşı,Balı / Orta Kemer,Cumartesi,15:30,Cumartesi Orta Kemer / Balı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,16:00,Cumartesi Üst Kemer / Liman,Standart
+BALI,Çarşı,Balı / Orta Kemer,Cumartesi,16:30,Cumartesi Orta Kemer / Balı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,17:00,Cumartesi Üst Kemer / Liman,Standart
+BALI,Çarşı,Balı / Orta Kemer,Cumartesi,17:30,Cumartesi Orta Kemer / Balı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,18:00,Cumartesi Üst Kemer / Liman,Standart
+BALI,Çarşı,Balı / Orta Kemer,Cumartesi,18:30,Cumartesi Orta Kemer / Balı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,19:00,Cumartesi Üst Kemer / Liman,Standart
+BALI,Çarşı,Balı / Orta Kemer,Cumartesi,19:30,Cumartesi Orta Kemer / Balı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Cumartesi,20:00,Cumartesi Üst Kemer / Liman,Standart
+BALI,Çarşı,Balı / Orta Kemer,Cumartesi,20:30,Cumartesi Orta Kemer / Balı,Standart
+BALI,Çarşı,Balı / Orta Kemer,Cumartesi,22:05,Cumartesi Orta Kemer / Balı,Standart
+BALI,Balı / Kemer,Çarşı,Hafta İçi,07:00,Sabah İlk Geliş (Askeriye / Fen Lisesi Önü),Standart
+BALI,Balı / Kemer,Çarşı,Hafta İçi,07:25,Sabah İlk Geliş (Askeriye / Fen Lisesi Önü),Standart
+BALI,Balı / Kemer,Çarşı,Hafta İçi,07:30,Sabah İlk Geliş (Askeriye / Fen Lisesi Önü),Standart
+BALI,Çarşı,Balı / Orta Kemer,Hafta İçi,07:30,Orta Kemer / Balı Güzergahı,Standart
+BALI,Çarşı,Balı / Orta Kemer,Hafta İçi,07:50,Orta Kemer / Balı Güzergahı,Standart
+BALI,Çarşı,Balı / Orta Kemer,Hafta İçi,08:00,Orta Kemer / Balı Güzergahı,Standart
+BALI,Çarşı,Balı / Orta Kemer,Hafta İçi,08:15,Orta Kemer Engelliler Okulu Dönüşü,Lise / Okul
+BALI,Çarşı,Balı / Orta Kemer,Hafta İçi,08:30,Orta Kemer / Balı Güzergahı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,09:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
+BALI,Çarşı,Balı / Orta Kemer,Hafta İçi,09:30,Orta Kemer / Balı Güzergahı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,10:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
+BALI,Çarşı,Balı / Orta Kemer,Hafta İçi,10:30,Orta Kemer / Balı Güzergahı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,11:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
+BALI,Çarşı,Balı / Orta Kemer,Hafta İçi,11:30,Orta Kemer / Balı Güzergahı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,12:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
+BALI,Çarşı,Balı / Orta Kemer,Hafta İçi,12:30,Orta Kemer / Balı Güzergahı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,13:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
+BALI,Çarşı,Balı / Orta Kemer,Hafta İçi,13:30,Orta Kemer / Balı Güzergahı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,14:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
+BALI,Çarşı,Balı / Orta Kemer,Hafta İçi,14:30,Orta Kemer / Balı Güzergahı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,15:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
+BALI,Çarşı,Balı / Orta Kemer,Hafta İçi,15:30,Orta Kemer -> 15:40 Fen Lisesi Çıkışı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,16:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
+BALI,Çarşı,Balı / Orta Kemer,Hafta İçi,16:30,Orta Kemer / Balı Güzergahı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,17:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
+BALI,Çarşı,Balı / Orta Kemer,Hafta İçi,17:30,Orta Kemer / Balı Güzergahı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,18:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
+BALI,Çarşı,Balı / Orta Kemer,Hafta İçi,18:30,Orta Kemer / Balı Güzergahı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,19:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
+BALI,Çarşı,Balı / Orta Kemer,Hafta İçi,19:30,Orta Kemer / Balı Güzergahı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Hafta İçi,20:00,Üst Kemer -> Mezarlık -> Liman (Askeri Konutlar / Kışla Yolu),Standart
+BALI,Çarşı,Balı / Orta Kemer,Hafta İçi,20:30,Orta Kemer / Balı Güzergahı,Standart
+BALI,Çarşı,Balı / Orta Kemer,Hafta İçi,22:05,Orta Kemer / Balı Güzergahı,Standart
+BALI,Çarşı,Balı / Orta Kemer,Pazar,07:30,Pazar Orta Kemer / Balı,Standart
+BALI,Çarşı,Balı / Orta Kemer,Pazar,08:30,Pazar Orta Kemer / Balı,Standart
+BALI,Çarşı,Balı / Orta Kemer,Pazar,09:30,Pazar Orta Kemer / Balı,Standart
+BALI,Çarşı,Balı / Orta Kemer,Pazar,10:30,Pazar Orta Kemer / Balı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Pazar,11:00,Pazar Üst Kemer / Liman,Standart
+BALI,Çarşı,Balı / Orta Kemer,Pazar,11:30,Pazar Orta Kemer / Balı,Standart
+BALI,Çarşı,Balı / Orta Kemer,Pazar,12:30,Pazar Orta Kemer / Balı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Pazar,13:00,Pazar Üst Kemer / Liman,Standart
+BALI,Çarşı,Balı / Orta Kemer,Pazar,13:30,Pazar Orta Kemer / Balı,Standart
+BALI,Çarşı,Balı / Orta Kemer,Pazar,14:30,Pazar Orta Kemer / Balı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Pazar,15:00,Pazar Üst Kemer / Liman,Standart
+BALI,Çarşı,Balı / Orta Kemer,Pazar,15:30,Pazar Orta Kemer / Balı,Standart
+BALI,Çarşı,Balı / Orta Kemer,Pazar,16:30,Pazar Orta Kemer / Balı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Pazar,17:00,Pazar Üst Kemer / Liman,Standart
+BALI,Çarşı,Balı / Orta Kemer,Pazar,17:30,Pazar Orta Kemer / Balı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Pazar,18:00,Pazar Üst Kemer / Liman,Standart
+BALI,Çarşı,Balı / Orta Kemer,Pazar,18:30,Pazar Orta Kemer / Balı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Pazar,19:00,Pazar Üst Kemer / Liman,Standart
+BALI,Çarşı,Balı / Orta Kemer,Pazar,19:30,Pazar Orta Kemer / Balı,Standart
+KEMER,Çarşı,Üst Kemer / Liman,Pazar,20:00,Pazar Üst Kemer / Liman,Standart
+BALI,Çarşı,Balı / Orta Kemer,Pazar,20:30,Pazar Orta Kemer / Balı,Standart
+BALI,Çarşı,Balı / Orta Kemer,Pazar,22:05,Pazar Orta Kemer / Balı,Standart
 BELEN - UZUNÇAYIR,Çarşı,Belen,Cumartesi,07:45,Cumartesi Belen • Belen Yeni Sanayi / 48'ler Güzergahı,Standart
 BELEN - UZUNÇAYIR,Çarşı,Belen,Cumartesi,08:15,Cumartesi Belen • Belen Yeni Sanayi / 48'ler Güzergahı,Standart
 BELEN - UZUNÇAYIR,Çarşı,Belen,Cumartesi,09:15,Cumartesi Belen • Belen Yeni Sanayi / 48'ler Güzergahı,Standart
@@ -853,7 +853,7 @@ GÜLÜÇ,Çarşı,Gülüç (Mervealtı / Petrol),Hafta İçi,09:00,KYK DA OLUR,K
 GÜLÜÇ,Çarşı,Gülüç (Mervealtı / Petrol),Hafta İçi,09:05,Standart,Standart
 GÜLÜÇ,Çarşı,Kargucak,Hafta İçi,09:15,KARGUCAK,Standart
 GÜLÜÇ,Çarşı,Gülüç (Mervealtı / Petrol),Hafta İçi,09:15,Standart,Standart
-GÜLÜÇ,Çarşı,Plaj,Hafta İçi,09:15,Gülüç Plaj Seferi,Standart
+GÜLÜÇ,Çarşı,Plaj,Hafta İçi,09:15,Gülüç Plaj Seferi (07:05–09:00 arası ort. 10 dk arayla ring çalışır),Standart
 GÜLÜÇ,Çarşı,Gülüç (Mervealtı / Petrol),Hafta İçi,09:25,Standart,Standart
 GÜLÜÇ,Çarşı,Plaj,Hafta İçi,09:25,Gülüç Plaj Seferi,Standart
 GÜLÜÇ,Çarşı,Göktepe,Hafta İçi,09:35,GÖKTEPE,Standart
@@ -1993,11 +1993,8 @@ KYK,Gülüç KYK,Doruk & Denizcilik Fak.,Hafta İçi,07:55,Gülüç Kız ve Erke
 KYK,Gülüç KYK,Doruk & Denizcilik Fak.,Hafta İçi,08:00,Gülüç Kız ve Erkek KYK Yurdu -> Doruk Eğitim Fakültesi -> Denizcilik Fakültesi,KYK / Üniversite
 KYK,Çavdarlı KYK,Doruk & Denizcilik Fak.,Hafta İçi,08:00,Çavdarlı KYK Kız Yurdu -> Doruk Eğitim Fakültesi -> Denizcilik Fakültesi (Sabah Ringi),KYK / Üniversite
 KYK,Çavdarlı KYK,Doruk & Denizcilik Fak.,Hafta İçi,08:50,Çavdarlı KYK Kız Yurdu -> Doruk Eğitim Fakültesi -> Denizcilik Fakültesi,KYK / Üniversite
-KYK,Çavdarlı KYK,Doruk & Denizcilik Fak.,Hafta İçi,09:00,Çavdarlı KYK Kız Yurdu -> Doruk Eğitim Fakültesi -> Denizcilik Fakültesi,KYK / Üniversite
 KYK,Çavdarlı KYK,Doruk & Denizcilik Fak.,Hafta İçi,09:50,Çavdarlı KYK Kız Yurdu -> Doruk Eğitim Fakültesi -> Denizcilik Fakültesi,KYK / Üniversite
-KYK,Çavdarlı KYK,Doruk & Denizcilik Fak.,Hafta İçi,10:00,Çavdarlı KYK Kız Yurdu -> Doruk Eğitim Fakültesi -> Denizcilik Fakültesi,KYK / Üniversite
 KYK,Çavdarlı KYK,Doruk & Denizcilik Fak.,Hafta İçi,11:50,Çavdarlı KYK Kız Yurdu -> Doruk Eğitim Fakültesi -> Denizcilik Fakültesi,KYK / Üniversite
-KYK,Çavdarlı KYK,Doruk & Denizcilik Fak.,Hafta İçi,12:00,Çavdarlı KYK Kız Yurdu -> Doruk Eğitim Fakültesi -> Denizcilik Fakültesi,KYK / Üniversite
 LOJMANLAR,Çarşı,Lojmanlar,Cumartesi,11:00,LOJMANLAR,Standart
 LOJMANLAR,Çarşı,Lojmanlar,Cumartesi,13:00,LOJMANLAR,Standart
 LOJMANLAR,Çarşı,Lojmanlar,Cumartesi,15:00,LOJMANLAR,Standart
@@ -2013,71 +2010,71 @@ LOJMANLAR,Çarşı,Lojmanlar,Hafta İçi,16:00,LOJMANLAR,Standart
 LOJMANLAR,Çarşı,Lojmanlar,Hafta İçi,17:00,LOJMANLAR,Standart
 LOJMANLAR,Çarşı,Lojmanlar,Hafta İçi,18:00,LOJMANLAR,Standart
 LOJMANLAR,Çarşı,Lojmanlar,Hafta İçi,19:00,LOJMANLAR,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Cumartesi,07:15,Cumartesi TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Cumartesi,08:30,Cumartesi TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Cumartesi,09:30,Cumartesi TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Cumartesi,10:30,Cumartesi TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,Ecevit,Cumartesi,11:00,Cumartesi Ecevit,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Cumartesi,11:30,Cumartesi TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Cumartesi,12:30,Cumartesi TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,Ecevit,Cumartesi,13:00,Cumartesi Ecevit,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Cumartesi,13:30,Cumartesi TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Cumartesi,14:30,Cumartesi TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,Ecevit,Cumartesi,15:00,Cumartesi Ecevit,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Cumartesi,15:30,Cumartesi TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Cumartesi,16:30,Cumartesi TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,Ecevit,Cumartesi,17:00,Cumartesi Ecevit,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Cumartesi,17:30,Cumartesi TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,Ecevit,Cumartesi,18:00,Cumartesi Ecevit,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Cumartesi,18:30,Cumartesi TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,Ecevit,Cumartesi,19:00,Cumartesi Ecevit,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Cumartesi,19:30,Cumartesi TOKİ,Standart
-TOKİ - ECEVİT,TOKİ / Ecevit,Çarşı,Hafta İçi,07:30,Sabah TOKİ / Güldere İlk Geliş,Standart
-TOKİ - ECEVİT,TOKİ / Ecevit,Çarşı,Hafta İçi,07:40,Sabah TOKİ / Güldere İlk Geliş,Standart
-TOKİ - ECEVİT,TOKİ / Ecevit,Çarşı,Hafta İçi,07:45,Sabah TOKİ / Güldere İlk Geliş,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Hafta İçi,07:15,Abalı / TOKİ Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Hafta İçi,07:30,Abalı / TOKİ Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Hafta İçi,07:55,Okul Giriş/Çıkış Seferi,Lise / Okul
-TOKİ - ECEVİT,Çarşı,TOKİ,Hafta İçi,08:05,Okul Giriş/Çıkış Seferi,Lise / Okul
-TOKİ - ECEVİT,Çarşı,TOKİ,Hafta İçi,08:12,Okul Giriş/Çıkış Seferi,Lise / Okul
-TOKİ - ECEVİT,Çarşı,TOKİ,Hafta İçi,08:30,Abalı / TOKİ Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,Ecevit,Hafta İçi,09:00,Ecevit / Güldere Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Hafta İçi,09:30,Abalı / TOKİ Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Hafta İçi,10:30,Abalı / TOKİ Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,Ecevit,Hafta İçi,11:00,Ecevit / Güldere Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Hafta İçi,11:30,Abalı / TOKİ Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Hafta İçi,12:30,Abalı / TOKİ Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,Ecevit,Hafta İçi,13:00,Ecevit / Güldere Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Hafta İçi,13:30,Abalı / TOKİ Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,Ecevit,Hafta İçi,14:00,Ecevit / Güldere Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Hafta İçi,14:30,Abalı / TOKİ Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,Ecevit,Hafta İçi,15:00,Ecevit / Güldere Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Hafta İçi,15:30,Okul Giriş/Çıkış Seferi,Lise / Okul
-TOKİ - ECEVİT,Çarşı,Ecevit,Hafta İçi,16:00,Ecevit / Güldere Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Hafta İçi,16:25,Okul Giriş/Çıkış Seferi,Lise / Okul
-TOKİ - ECEVİT,Çarşı,TOKİ,Hafta İçi,16:30,Okul Giriş/Çıkış Seferi,Lise / Okul
-TOKİ - ECEVİT,Çarşı,Ecevit,Hafta İçi,17:00,Ecevit / Güldere Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Hafta İçi,17:30,Abalı / TOKİ Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,Ecevit,Hafta İçi,18:00,Ecevit / Güldere Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Hafta İçi,18:30,Abalı / TOKİ Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,Ecevit,Hafta İçi,19:00,Ecevit / Güldere Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Hafta İçi,19:30,Abalı / TOKİ Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Hafta İçi,21:00,Ecevit / Güldere Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Hafta İçi,22:00,Ecevit / Güldere Güzergahı,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Pazar,08:30,Pazar TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Pazar,10:30,Pazar TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Pazar,12:30,Pazar TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,Ecevit,Pazar,13:00,Pazar Ecevit,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Pazar,14:30,Pazar TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Pazar,15:30,Pazar TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Pazar,16:30,Pazar TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,Ecevit,Pazar,17:00,Pazar Ecevit,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Pazar,17:30,Pazar TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Pazar,18:30,Pazar TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,Ecevit,Pazar,19:00,Pazar Ecevit,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Pazar,19:30,Pazar TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Pazar,21:00,Pazar TOKİ,Standart
-TOKİ - ECEVİT,Çarşı,TOKİ,Pazar,22:00,Pazar TOKİ,Standart
+TOKİ,Çarşı,TOKİ,Cumartesi,07:15,Cumartesi TOKİ,Standart
+TOKİ,Çarşı,TOKİ,Cumartesi,08:30,Cumartesi TOKİ,Standart
+TOKİ,Çarşı,TOKİ,Cumartesi,09:30,Cumartesi TOKİ,Standart
+TOKİ,Çarşı,TOKİ,Cumartesi,10:30,Cumartesi TOKİ,Standart
+ECEVİT,Çarşı,Ecevit,Cumartesi,11:00,Cumartesi Ecevit,Standart
+TOKİ,Çarşı,TOKİ,Cumartesi,11:30,Cumartesi TOKİ,Standart
+TOKİ,Çarşı,TOKİ,Cumartesi,12:30,Cumartesi TOKİ,Standart
+ECEVİT,Çarşı,Ecevit,Cumartesi,13:00,Cumartesi Ecevit,Standart
+TOKİ,Çarşı,TOKİ,Cumartesi,13:30,Cumartesi TOKİ,Standart
+TOKİ,Çarşı,TOKİ,Cumartesi,14:30,Cumartesi TOKİ,Standart
+ECEVİT,Çarşı,Ecevit,Cumartesi,15:00,Cumartesi Ecevit,Standart
+TOKİ,Çarşı,TOKİ,Cumartesi,15:30,Cumartesi TOKİ,Standart
+TOKİ,Çarşı,TOKİ,Cumartesi,16:30,Cumartesi TOKİ,Standart
+ECEVİT,Çarşı,Ecevit,Cumartesi,17:00,Cumartesi Ecevit,Standart
+TOKİ,Çarşı,TOKİ,Cumartesi,17:30,Cumartesi TOKİ,Standart
+ECEVİT,Çarşı,Ecevit,Cumartesi,18:00,Cumartesi Ecevit,Standart
+TOKİ,Çarşı,TOKİ,Cumartesi,18:30,Cumartesi TOKİ,Standart
+ECEVİT,Çarşı,Ecevit,Cumartesi,19:00,Cumartesi Ecevit,Standart
+TOKİ,Çarşı,TOKİ,Cumartesi,19:30,Cumartesi TOKİ,Standart
+TOKİ,TOKİ / Ecevit,Çarşı,Hafta İçi,07:30,Sabah TOKİ / Güldere İlk Geliş,Standart
+TOKİ,TOKİ / Ecevit,Çarşı,Hafta İçi,07:40,Sabah TOKİ / Güldere İlk Geliş,Standart
+ECEVİT,TOKİ / Ecevit,Çarşı,Hafta İçi,07:45,Sabah TOKİ / Güldere İlk Geliş,Standart
+TOKİ,Çarşı,TOKİ,Hafta İçi,07:15,Abalı / TOKİ Güzergahı,Standart
+TOKİ,Çarşı,TOKİ,Hafta İçi,07:30,Abalı / TOKİ Güzergahı,Standart
+TOKİ,Çarşı,TOKİ,Hafta İçi,07:55,Okul Giriş/Çıkış Seferi,Lise / Okul
+TOKİ,Çarşı,TOKİ,Hafta İçi,08:05,Okul Giriş/Çıkış Seferi,Lise / Okul
+TOKİ,Çarşı,TOKİ,Hafta İçi,08:12,Okul Giriş/Çıkış Seferi,Lise / Okul
+TOKİ,Çarşı,TOKİ,Hafta İçi,08:30,Abalı / TOKİ Güzergahı,Standart
+ECEVİT,Çarşı,Ecevit,Hafta İçi,09:00,Ecevit / Güldere Güzergahı,Standart
+TOKİ,Çarşı,TOKİ,Hafta İçi,09:30,Abalı / TOKİ Güzergahı,Standart
+TOKİ,Çarşı,TOKİ,Hafta İçi,10:30,Abalı / TOKİ Güzergahı,Standart
+ECEVİT,Çarşı,Ecevit,Hafta İçi,11:00,Ecevit / Güldere Güzergahı,Standart
+TOKİ,Çarşı,TOKİ,Hafta İçi,11:30,Abalı / TOKİ Güzergahı,Standart
+TOKİ,Çarşı,TOKİ,Hafta İçi,12:30,Abalı / TOKİ Güzergahı,Standart
+ECEVİT,Çarşı,Ecevit,Hafta İçi,13:00,Ecevit / Güldere Güzergahı,Standart
+TOKİ,Çarşı,TOKİ,Hafta İçi,13:30,Abalı / TOKİ Güzergahı,Standart
+ECEVİT,Çarşı,Ecevit,Hafta İçi,14:00,Ecevit / Güldere Güzergahı,Standart
+TOKİ,Çarşı,TOKİ,Hafta İçi,14:30,Abalı / TOKİ Güzergahı,Standart
+ECEVİT,Çarşı,Ecevit,Hafta İçi,15:00,Ecevit / Güldere Güzergahı,Standart
+TOKİ,Çarşı,TOKİ,Hafta İçi,15:30,Okul Giriş/Çıkış Seferi,Lise / Okul
+ECEVİT,Çarşı,Ecevit,Hafta İçi,16:00,Ecevit / Güldere Güzergahı,Standart
+TOKİ,Çarşı,TOKİ,Hafta İçi,16:25,Okul Giriş/Çıkış Seferi,Lise / Okul
+TOKİ,Çarşı,TOKİ,Hafta İçi,16:30,Okul Giriş/Çıkış Seferi,Lise / Okul
+ECEVİT,Çarşı,Ecevit,Hafta İçi,17:00,Ecevit / Güldere Güzergahı,Standart
+TOKİ,Çarşı,TOKİ,Hafta İçi,17:30,Abalı / TOKİ Güzergahı,Standart
+ECEVİT,Çarşı,Ecevit,Hafta İçi,18:00,Ecevit / Güldere Güzergahı,Standart
+TOKİ,Çarşı,TOKİ,Hafta İçi,18:30,Abalı / TOKİ Güzergahı,Standart
+ECEVİT,Çarşı,Ecevit,Hafta İçi,19:00,Ecevit / Güldere Güzergahı,Standart
+TOKİ,Çarşı,TOKİ,Hafta İçi,19:30,Abalı / TOKİ Güzergahı,Standart
+TOKİ,Çarşı,TOKİ,Hafta İçi,21:00,TOKİ + Ecevit / Güldere Birleşik Gece Seferi,Standart
+TOKİ,Çarşı,TOKİ,Hafta İçi,22:00,TOKİ + Ecevit / Güldere Birleşik Gece Seferi,Standart
+TOKİ,Çarşı,TOKİ,Pazar,08:30,Pazar TOKİ,Standart
+TOKİ,Çarşı,TOKİ,Pazar,10:30,Pazar TOKİ,Standart
+TOKİ,Çarşı,TOKİ,Pazar,12:30,Pazar TOKİ,Standart
+ECEVİT,Çarşı,Ecevit,Pazar,13:00,Pazar Ecevit,Standart
+TOKİ,Çarşı,TOKİ,Pazar,14:30,Pazar TOKİ,Standart
+TOKİ,Çarşı,TOKİ,Pazar,15:30,Pazar TOKİ,Standart
+TOKİ,Çarşı,TOKİ,Pazar,16:30,Pazar TOKİ,Standart
+ECEVİT,Çarşı,Ecevit,Pazar,17:00,Pazar Ecevit,Standart
+TOKİ,Çarşı,TOKİ,Pazar,17:30,Pazar TOKİ,Standart
+TOKİ,Çarşı,TOKİ,Pazar,18:30,Pazar TOKİ,Standart
+ECEVİT,Çarşı,Ecevit,Pazar,19:00,Pazar Ecevit,Standart
+TOKİ,Çarşı,TOKİ,Pazar,19:30,Pazar TOKİ,Standart
+TOKİ,Çarşı,TOKİ,Pazar,21:00,Pazar TOKİ,Standart
+TOKİ,Çarşı,TOKİ,Pazar,22:00,Pazar TOKİ,Standart
 TOPÇALI,Çarşı,Topçalı,Cumartesi,08:00,Cumartesi Topçalı,Standart
 TOPÇALI,Çarşı,Topçalı,Cumartesi,09:00,Cumartesi Topçalı,Standart
 TOPÇALI,Çarşı,Topçalı,Cumartesi,11:00,Cumartesi Topçalı,Standart
@@ -3382,3 +3379,13 @@ TOPÇALI,Çarşı,Topçalı,Pazar,20:00,Pazar Topçalı,Standart
 İLYASKARACA,İlyas Karaca,Çarşı,Pazar,15:55,Pazar Dönüş (+25 dk),Standart
 İLYASKARACA,İlyas Karaca,Çarşı,Pazar,17:55,Pazar Dönüş (+25 dk),Standart
 İLYASKARACA,İlyas Karaca,Çarşı,Pazar,19:55,Pazar Dönüş (+25 dk),Standart
+ÇAVDARLI,Çarşı,Çavdarlı,Hafta İçi,20:30,Gece Nöbet: K. Tarlası Aracı ile Birleşik Çavdarlı Seferi,Gece Nöbetçi
+ÇAVDARLI,Çarşı,Çavdarlı,Hafta İçi,21:30,Gece Nöbet: K. Tarlası Aracı ile Birleşik Çavdarlı Seferi,Gece Nöbetçi
+ÇAVDARLI,Çarşı,Çavdarlı,Hafta İçi,22:30,Gece Nöbet: K. Tarlası Aracı ile Birleşik Çavdarlı Seferi,Gece Nöbetçi
+GÜLÜÇ,Çarşı,Plaj,Hafta İçi,20:15,Akşam 20:00 Sonrası Plaj Seferi (Elif Oteli Karşısı),Standart
+GÜLÜÇ,Çarşı,Plaj,Hafta İçi,21:20,Akşam 20:00 Sonrası Plaj Seferi,Standart
+GÜLÜÇ,Çarşı,Plaj,Hafta İçi,22:20,Akşam 20:00 Sonrası Plaj Seferi,Standart
+GÜLÜÇ,Çarşı,Plaj,Hafta İçi,23:30,Akşam 20:00 Sonrası Son Plaj Seferi,Standart
+GÜLÜÇ,Gülüç,Kışla,Hafta İçi,TARİFE_YOK,Saha tespiti yapıldı • Kooperatif sefer saatleri doğrulanıyor,Tarife Bekleniyor
+GÜLÜÇ,Gülüç,Kışla,Cumartesi,TARİFE_YOK,Saha tespiti yapıldı • Kooperatif sefer saatleri doğrulanıyor,Tarife Bekleniyor
+GÜLÜÇ,Gülüç,Kışla,Pazar,TARİFE_YOK,Saha tespiti yapıldı • Kooperatif sefer saatleri doğrulanıyor,Tarife Bekleniyor
